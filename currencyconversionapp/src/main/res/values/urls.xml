@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="foreign_exchange_url">http://api.fixer.io/latest?base=%1$s</string>
+</resources>
